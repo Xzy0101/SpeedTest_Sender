@@ -1,0 +1,41 @@
+receiver: localhost
+1 	 byte RTT: 43 	usec
+100 	 byte RTT: 30 	usec
+200 	 byte RTT: 30 	usec
+1000 	 byte RTT: 29 	usec
+
+1 	 KB throughput: 263070.006423	kbps
+2 	 KB throughput: 495733.736762	kbps
+3 	 KB throughput: 758987.029030	kbps
+4 	 KB throughput: 1046900.958466	kbps
+5 	 KB throughput: 1238959.467635	kbps
+6 	 KB throughput: 1534082.397004	kbps
+7 	 KB throughput: 1780869.565217	kbps
+8 	 KB throughput: 3371193.415638	kbps
+9 	 KB throughput: 2440516.385303	kbps
+10 	 KB throughput: 2512112.848819	kbps
+11 	 KB throughput: 2762477.007971	kbps
+12 	 KB throughput: 3705390.124387	kbps
+13 	 KB throughput: 5316824.762856	kbps
+14 	 KB throughput: 6026694.692591	kbps
+15 	 KB throughput: 6390015.600624	kbps
+16 	 KB throughput: 6068148.148148	kbps
+17 	 KB throughput: 7054913.880446	kbps
+18 	 KB throughput: 6896913.002806	kbps
+19 	 KB throughput: 5860240.963855	kbps
+20 	 KB throughput: 5345513.866232	kbps
+21 	 KB throughput: 5159928.014397	kbps
+22 	 KB throughput: 5332071.005917	kbps
+23 	 KB throughput: 4854831.229065	kbps
+24 	 KB throughput: 5076374.903176	kbps
+25 	 KB throughput: 5298835.705045	kbps
+26 	 KB throughput: 5256465.942744	kbps
+27 	 KB throughput: 5095231.513476	kbps
+28 	 KB throughput: 5633005.893910	kbps
+29 	 KB throughput: 5771817.298348	kbps
+30 	 KB throughput: 5510313.901345	kbps
+31 	 KB throughput: 5724797.114518	kbps
+32 	 KB throughput: 5303338.053813	kbps
+
+1 MB throughput: 60787014.492754	kbps
+1024 1 KB throughput: 1632024.902724	kbps
